@@ -1,0 +1,13 @@
+Data with multiples:
+shot321-720
+https://drive.google.com/file/d/0B0fkYeKqvwrHNVMxdmFBQjhibHc/view?usp=sharing
+shot1-320
+https://drive.google.com/open?id=0B0fkYeKqvwrHVWl2LTlYdWpxcVU
+Data without multiples:
+https://drive.google.com/open?id=0B0JBnG0DJ-lJb1VqSDA2WFVTdjg
+
+you may download from link with wget.
+
+
+### NOTE, I think the best way of preping the data is to separate segy to smaller subsets (fewer shots) because I don't know how much storage AWS would allow us.But I see typically it is 60GB.
+Total data is 3GB already.
